@@ -1,0 +1,83 @@
+
+[2025-01-18 15:39:17] Nenhum caminho encontrado com os critérios fornecidos.
+[2025-01-18 15:41:39] Nenhum caminho encontrado com os critérios fornecidos.
+[2025-01-18 15:43:48] Iniciando cálculo de menor caminho...
+[2025-01-18 15:43:48] Origem: Setúbal
+[2025-01-18 15:43:48] Destino: Barreiro
+[2025-01-18 15:43:48] Filtros de transporte: []
+[2025-01-18 15:43:48] Tipo de custo: Duração
+[2025-01-18 15:45:08] Iniciando cálculo de menor caminho...
+[2025-01-18 15:45:08] Origem: Setúbal
+[2025-01-18 15:45:08] Destino: Barreiro
+[2025-01-18 15:45:08] Filtros de transporte: [Comboio, Autocarro]
+[2025-01-18 15:45:08] Tipo de custo: Distância
+[2025-01-18 15:45:08] Utilizador calculou caminho: Origem=Setúbal, Destino=Barreiro, Custo=Distância, Transporte=[Comboio, Autocarro]
+[2025-01-18 15:46:19] Iniciando cálculo de menor caminho...
+[2025-01-18 15:46:19] Origem: Setúbal
+[2025-01-18 15:46:19] Destino: Cais do Sodré
+[2025-01-18 15:46:19] Filtros de transporte: [Autocarro, Barco]
+[2025-01-18 15:46:19] Tipo de custo: Distância
+[2025-01-18 15:46:19] Utilizador calculou caminho: Origem=Setúbal, Destino=Cais do Sodré, Custo=Distância, Transporte=[Autocarro, Barco]
+[2025-01-18 15:53:08] Utilizador calculou caminho: Origem=Setúbal, Destino=Cais do Sodré, Custo=Distância, Transporte=[Autocarro, Barco]
+[2025-01-18 15:56:05] Utilizador calculou caminho: Origem=Setúbal, Destino=Barreiro, Custo=Distância, Transporte=[Autocarro, Barco]
+[2025-01-18 15:56:33] Utilizador calculou caminho: Origem=Cais do Sodré, Destino=Setúbal, Custo=Distância, Transporte=[Autocarro, Barco]
+[2025-01-18 15:58:20] Utilizador calculou caminho: Origem=Cais do Sodré, Destino=Setúbal, Custo=Distância, Transporte=[Autocarro, Barco]
+[2025-01-18 16:00:13] Utilizador calculou caminho: Origem=Cais do Sodré, Destino=Setúbal, Custo=Distância, Transporte=[Autocarro, Barco]
+[2025-01-18 16:03:29] Utilizador calculou caminho: Origem=Setúbal, Destino=Cais do Sodré, Custo=Distância, Transporte=[Autocarro, Barco]
+[2025-01-18 16:06:49] Utilizador calculou caminho: Origem=Cais do Sodré, Destino=Setúbal, Custo=Distância, Transporte=[Autocarro, Barco]
+[2025-01-18 16:14:40] Utilizador calculou caminho: Origem=Cais do Sodré, Destino=Setúbal, Custo=Distância, Transporte=[Autocarro, Barco]
+[2025-01-18 16:19:17] Utilizador calculou caminho: Origem=Cais do Sodré, Destino=Setúbal, Custo=Distância, Transporte=[Autocarro, Barco]
+[2025-01-18 16:21:06] Utilizador calculou caminho: Origem=Cais do Sodré, Destino=Setúbal, Custo=Distância, Transporte=[Autocarro]
+[2025-01-18 16:21:19] Utilizador calculou caminho: Origem=Cais do Sodré, Destino=Setúbal, Custo=Distância, Transporte=[Barco]
+[2025-01-18 17:04:58] Utilizador calculou caminho: Origem=Cais do Sodré, Destino=Setúbal, Custo=Distância, Transporte=[Autocarro, Barco]
+[2025-01-18 17:06:39] Utilizador calculou caminho: Origem=Cais do Sodré, Destino=Setúbal, Custo=Distância, Transporte=[Autocarro, Barco]
+[2025-01-18 17:08:29] Utilizador calculou caminho: Origem=Cais do Sodré, Destino=Setúbal, Custo=Distância, Transporte=[Autocarro, Barco]
+[2025-01-18 17:10:20] Utilizador calculou caminho: Origem=Cais do Sodré, Destino=Setúbal, Custo=Duração, Transporte=[Autocarro, Barco]
+[2025-01-18 17:11:31] Utilizador calculou caminho: Origem=Cais do Sodré, Destino=Setúbal, Custo=Distância, Transporte=[Autocarro, Barco]
+[2025-01-18 17:11:53] Utilizador calculou caminho: Origem=Cais do Sodré, Destino=Setúbal, Custo=Distância, Transporte=[Barco]
+<<<<<<< Updated upstream
+[2025-01-19 18:57:38] Utilizador calculou paragens acessíveis a partir de 'Sintra' com distância máxima de 1 paragens.
+[2025-01-19 18:57:42] Utilizador calculou paragens acessíveis a partir de 'Sintra' com distância máxima de 2 paragens.
+[2025-01-19 18:57:44] Utilizador calculou paragens acessíveis a partir de 'Sintra' com distância máxima de 3 paragens.
+[2025-01-19 18:57:48] Utilizador clicou em 'Top 5 Paragens Mais Centrais'.
+[2025-01-19 18:57:50] Utilizador clicou em 'Número de Paragens'.
+[2025-01-19 18:57:59] Utilizador clicou em 'Número de Rotas'.
+[2025-01-19 18:58:00] Utilizador clicou em 'Centralidade das Paragens'.
+[2025-01-19 18:58:18] Utilizador calculou caminho: Origem=Sintra, Destino=Pragal, Custo=Distância, Transporte=[Autocarro]
+[2025-01-19 18:58:28] Utilizador calculou caminho: Origem=Sintra, Destino=Oeiras, Custo=Distância, Transporte=[Comboio, Autocarro]
+[2025-01-19 18:58:50] Utilizador clicou em 'Esconder'.
+[2025-01-19 18:58:51] Utilizador clicou em 'Esconder'.
+[2025-01-19 18:58:53] Utilizador clicou em 'Esconder'.
+[2025-01-19 18:58:54] Utilizador clicou em 'Top 5 Paragens Mais Centrais'.
+[2025-01-19 18:58:54] Utilizador clicou em 'Número de Paragens'.
+[2025-01-19 18:58:55] Utilizador clicou em 'Número de Rotas'.
+[2025-01-19 18:58:55] Utilizador clicou em 'Centralidade das Paragens'.
+[2025-01-19 18:58:59] Utilizador clicou em 'Número de Rotas'.
+[2025-01-19 19:09:31] Utilizador clicou em 'Número de Rotas'.
+[2025-01-19 19:09:34] Utilizador clicou em 'Número de Paragens'.
+[2025-01-19 19:09:35] Utilizador clicou em 'Número de Rotas'.
+[2025-01-19 19:09:36] Utilizador clicou em 'Número de Paragens'.
+[2025-01-19 20:12:24] Utilizador calculou paragens acessíveis a partir de 'Sintra' com distância máxima de 2 paragens.
+[2025-01-19 20:12:25] Utilizador clicou em 'Top 5 Paragens Mais Centrais'.
+[2025-01-19 20:12:26] Utilizador clicou em 'Número de Paragens'.
+[2025-01-19 20:12:27] Utilizador clicou em 'Número de Rotas'.
+[2025-01-19 20:12:28] Utilizador clicou em 'Centralidade das Paragens'.
+[2025-01-19 20:12:41] Utilizador calculou caminho: Origem=Sintra, Destino=Palmela, Custo=Sustentabilidade, Transporte=[Caminhada]
+[2025-01-19 20:13:06] Utilizador calculou caminho: Origem=Sintra, Destino=Cacém, Custo=Sustentabilidade, Transporte=[Autocarro]
+[2025-01-19 20:13:17] Utilizador calculou caminho: Origem=Sintra, Destino=Queluz, Custo=Sustentabilidade, Transporte=[Autocarro]
+[2025-01-19 20:13:24] Utilizador calculou caminho: Origem=Sintra, Destino=Queluz, Custo=Sustentabilidade, Transporte=[Caminhada]
+[2025-01-19 20:13:26] Utilizador calculou caminho: Origem=Sintra, Destino=Queluz, Custo=Sustentabilidade, Transporte=[Bicicleta]
+=======
+[2025-01-19 02:38:46] Utilizador calculou caminho: Origem=Troia, Destino=Loures, Custo=Sustentabilidade, Transporte=[Comboio, Barco, Bicicleta]
+[2025-01-19 02:39:32] Utilizador clicou em 'Esconder'.
+[2025-01-19 16:05:35] Tentativa de cálculo de caminho falhou: opções incompletas.
+[2025-01-19 16:05:41] Utilizador calculou caminho: Origem=Setúbal, Destino=Cais do Sodré, Custo=Distância, Transporte=[Autocarro, Barco]
+>>>>>>> Stashed changes
+[2025-01-19 20:56:44] Utilizador calculou caminho: Origem=Setúbal, Destino=Sesimbra, Custo=Distância, Transporte=[Autocarro]
+[2025-01-19 20:56:55] Utilizador clicou em 'Esconder'.
+[2025-01-19 21:17:37] Utilizador calculou caminho: Origem=Setúbal, Destino=Troia, Custo=Distância, Transporte=[Comboio]
+[2025-01-19 21:20:36] Utilizador calculou caminho: Origem=Setúbal, Destino=Troia, Custo=Distância, Transporte=[Comboio]
+[2025-01-23 15:27:03] Utilizador calculou caminho: Origem=Barreiro, Destino=Cais do Sodré, Custo=Duração, Transporte=[Comboio, Autocarro, Barco, Caminhada, Bicicleta]
+[2025-01-23 15:27:38] Utilizador calculou caminho: Origem=Barreiro, Destino=Cais do Sodré, Custo=Duração, Transporte=[Comboio, Autocarro, Barco, Caminhada, Bicicleta]
+[2025-01-23 15:28:45] Utilizador calculou caminho: Origem=Pinhal Novo, Destino=Setúbal, Custo=Duração, Transporte=[Comboio, Autocarro, Barco, Caminhada, Bicicleta]
+[2025-01-23 15:30:10] Utilizador calculou caminho: Origem=Pinhal Novo, Destino=Setúbal, Custo=Duração, Transporte=[Comboio, Autocarro, Barco, Caminhada, Bicicleta]
