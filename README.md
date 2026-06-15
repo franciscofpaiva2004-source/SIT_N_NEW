@@ -47,3 +47,4 @@ The core of this application revolves around representing a metropolitan transpo
 
 ## Authors
 * Gonçalo Barracha
+* Francisco Paz
